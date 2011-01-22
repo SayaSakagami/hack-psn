@@ -1,0 +1,8 @@
+Hack PSN
+========
+
+Forgotten your PSN password?  Lied about your DoB when you signed up?  Then this might be your answer.
+
+Change EMAIL and DOMAIN.COM accodingly, and run the script.  It'll try every date between 1960 and 1990, and will let you know when it finds the one you used when you signed up.
+
+If you may have entered a date outside of 1960 and 1990, change those numbers accordingly.
